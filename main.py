@@ -3,10 +3,10 @@ from pokemon import *
 from player import real_player, computer_player
 
 # TODO: read path from setting
-game_logic = ExtractPokemonLogicMatrix(r"C:\Users\Sahand\Downloads\chart.csv")
+game_logic = ExtractPokemonLogicMatrix(r".\chart.csv")
 
 list_of_existing_pokemons = ExtractPokemonsFromCsv(
-    r"C:\Users\Sahand\Downloads\pokemon.csv")
+    r".\pokemon.csv")
 
 # TODO: get the user name from the input
 player1 = real_player(

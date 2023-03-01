@@ -1,0 +1,10 @@
+name,type,health,defance,action1,attack1,action2,attack2,action3,attack3,action4,attack4
+chizard,Fire,100,50,Flamethrower,30,Fly,50,Blast Burn,20,Fire Punch,35
+Blastoise,Water,100,30,Water Gun,50,Bubblebeam,60,Hydro Pump,20,Surf,18
+Venusaur,Grass,100,45,Vine Wip,20,Razor Leaf,50,Earthquake,36,Frenzy Plant,36
+Charmander,Fire,100,10,Ember,10,Scratch,52,Tackle,35,Fire Punch,34
+Squirtle,Water,100,25,Bubblebeam,25,Tackle,33,Headbutt,24,Surf,22
+Bulbasaur,Grass,100,36,Vine Wip,30,Razor Leaf,22,Tackle,22,Leech Seed,25
+Charmeleon,Fire,100,45,Ember,12,Scratch,15,Flamethrower,63,Fire Punch,26
+Wartortle,Water,100,26,Bubblebeam,24,Water Gun,36,Headbutt,24,Surf,28
+Ivysaur,Grass,100,38,Vine Wip,12,Razor Leaf,34,Bullet Seed,25,Leech Seed,36
